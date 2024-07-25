@@ -1,5 +1,5 @@
 export const FULL_NAME = "Prateek Agrawal";
-export const RESUME_LINK = "https://ywalia01.github.io/resume/resume.pdf";
+export const RESUME_LINK = "https://drive.google.com/file/d/1f5IrerifRALbNOpsRrC7dsEfc5_srqKR/view?usp=drive_link";
 export const FOOTER_TEXT = "Built by Prateek Agrawal";
 export const SOCIAL_LINKS = [
     {
