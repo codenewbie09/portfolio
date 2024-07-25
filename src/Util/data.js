@@ -105,6 +105,6 @@ export const WORK = [
         description: "My Portfolio",
         description2: "Reactjs",
         ghlink: "https://github.com/codenewbie09/portfolio",
-        extlink: "https://ywalia01.github.io/dune-api-frontend/",
+        extlink: "https://prateek-agrawal.vercel.app",
     }    
 ];
