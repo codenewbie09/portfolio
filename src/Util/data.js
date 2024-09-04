@@ -106,5 +106,19 @@ export const WORK = [
         description2: "Reactjs",
         ghlink: "https://github.com/codenewbie09/portfolio",
         extlink: "https://prateek-agrawal.vercel.app",
-    }    
+    } ,
+    {
+        title: "Inventory Management",
+        description: "Project for inventory management",
+        description2: "NextJS Firebase",
+        ghlink: "https://github.com/codenewbie09/Pantry-App",
+        extlink: "https://manage-inventory5.vercel.app",
+    }  ,
+    {
+        title: "AI support bot",
+        description: "AI chatbot with the purpose of helping customers regarding the product",
+        description2: "NextJS OPENAI",
+        ghlink: "https://github.com/codenewbie09/support-bot",
+        extlink: "https://customer-support-bot.vercel.app",
+    }
 ];
